@@ -54,4 +54,15 @@ class SoundManager {
     private func playSystemSound(soundID: SystemSoundID) {
         AudioServicesPlaySystemSound(soundID)
     }
+    
+    func playTapSound() {
+        // 彈性的戳戳聲
+        let tapSounds: [SystemSoundID] = [
+            1306, // Pop
+            1113, // Bubble pop 1
+            1114, // Bubble pop 2
+            1115  // Bubble pop 3
+        ]
+        playSystemSound(soundID: tapSounds.randomElement()!)
+    }
 }

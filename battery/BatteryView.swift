@@ -112,6 +112,13 @@ struct BatteryView: View {
                     .padding(.horizontal, 10)
                     .animation(.spring(response: 0.5, dampingFraction: 0.8), value: percentage)
                 }
+                
+                // Tap hint (subtle)
+                if percentage > 30 && percentage < 70 {
+                    Image(systemName: "hand.tap.fill")
+                        .font(.system(size: 20))
+                        .foregroundColor(.white.opacity(0.2))
+                }
             }
         }
     }

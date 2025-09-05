@@ -35,12 +35,12 @@
 "info.credit" = "Crafted with love in Hsinchu, Taiwan 💙";
 
 // Author & Call to Action
-"info.author.title" = "作者介紹與行動呼籲";
-"info.author.subtitle" = "21 歲，獨立創作者";
+"info.author.title" = "關於這件作品";
+"info.author.subtitle" = "我是 Tofus，21歲";
 
-"info.author.bio" = "曾任台大 UX 設計師，參與 Jamie's Gapyear Program，是 g0v 社群參與者，並在 Ethereum Foundation Next Billion Fellowship 中參與去中心化數位身份與錢包研究專案。現就讀國立臺北大學經濟學系。\n\n我們這一代在網路的浪潮中長大，卻仍困在上一代夢想的殘影裡。他們說，寫一個 app 可以改變世界；我們信了，但世界早就翻篇。\n\nSocial Battery 指向這個現象：我們需要停止追逐過時的劇本，因為那些夢想，不會再替我們帶來未來。\n\n如果造 app 不再是夢想，我們就必須學會自己造夢。我們需要新的語言，新的幻象，去構築屬於 Gen Z 的未來。";
+"info.author.bio" = "我做了一個最無用的 app——\n一顆電池，除了滑動，什麼都不能做。\n\n在 AI 可以秒寫百萬行程式碼的今天，\n我選擇做一個「什麼都不做」的 app。\n\n這不是產品，是一面鏡子——\n照出我們這代人還在追逐上個時代的幻影。";
 
-"info.author.cta" = "你不需要繼承任何人的夢，\n自己的夢，自己造。";
+"info.author.cta" = "如果你也厭倦了「寫 app 改變世界」的老調，\n歡迎停下來，一起重新想像。";
 
 "info.connect" = "連結";
 "info.media.title" = "AI寫程式／大學生「焦慮戳戳樂」App下載擠掉ChatGPT，AI工具掀文藝復興？";
@@ -48,4 +48,13 @@
 
 // Letter to Audience
 "info.letter.title" = "給觀眾的信｜Social Battery";
+// Support
+"support.title" = "請我喝杯咖啡";
+"support.subtitle" = "如果期待看到更多獨立創作";
+
+// Concept
+"concept.title" = "作品理念";
+"concept.subtitle" = "當夢想變成網路上的一則迷因";
+"concept.header" = "作品理念：\n當夢想變成網路上的一則迷因";
+
 "info.letter.content" = "你看到了一顆電池。\n它靜靜地躺在桌面上，沒有功能，沒有解釋。\n它什麼都不說，\n但它想讓我們停下來，看清一件事：\n\n時代早就翻篇了。\n\n我們這一代，還活在上一代的夢想殘影裡。\n有人告訴我們，寫一個 app 可以改變世界；\n有人告訴我們，創業是自由的通道；\n有人告訴我們，只要努力造東西，就會被看見。\n\n我們信了。\n但什麼都沒得到。\n\n因為世界已經不一樣了。\nAI 幫你生成代碼、設計、文案，\n一個 app 的誕生速度，快過它被使用、被記住的速度。\n造 app，不再是夢想，\n它變成了另一個 meme，\n一個可被複製、可被遺忘的符號。\n\nSocial Battery 就是這個事實的隱喻。\n它沒有功能，不試圖改變什麼。\n它只放大一個符號，\n讓你看見我們這一代被困在上一代的幻覺裡。\n\n我們想邀請你停下來，\n凝視這顆電池，\n凝視我們正在經歷的真相：\n那些被遺留下來的夢想，不會為我們帶來未來。\n\n如果時代已經翻篇，\n我們要學會自己造夢。\n不再依賴上一代的路徑，\n不再追逐別人設計好的幻覺，\n而是用我們自己的方式，\n去構築屬於我們的想像力。\n\n你不需要繼承任何人的夢，\n自己的夢，自己造。\n\n如果你讀到了這裡，\n希望你能和我們一起，\n停下腳步，\n然後開始重新想像。";

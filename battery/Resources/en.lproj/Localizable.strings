@@ -35,12 +35,12 @@
 "info.credit" = "Crafted with love in Hsinchu, Taiwan 💙";
 
 // Author & Call to Action
-"info.author.title" = "Author & Call to Action";
-"info.author.subtitle" = "21 years old, independent creator";
+"info.author.title" = "About This Work";
+"info.author.subtitle" = "I'm Tofus, 21";
 
-"info.author.bio" = "Former UX designer at National Taiwan University, participant in Jamie's Gapyear Program, g0v community contributor, and researcher in decentralized digital identity and wallets at the Ethereum Foundation Next Billion Fellowship. Currently studying Economics at National Taipei University.\n\nOur generation grew up in the internet wave, yet we're still trapped in the afterglow of the previous generation's dreams. They said building an app could change the world; We believed, but the world has already turned the page.\n\nSocial Battery points to this phenomenon: We need to stop chasing outdated scripts, because those dreams won't bring us the future anymore.\n\nIf building apps is no longer a dream, we must learn to dream for ourselves. We need new languages, new illusions, to build a future that belongs to Gen Z.";
+"info.author.bio" = "I made the most useless app—\na battery that does nothing but slide.\n\nIn an age where AI writes millions of lines of code in seconds,\nI chose to make an app that does nothing.\n\nThis isn't a product, it's a mirror—\nreflecting how our generation still chases last generation's ghosts.";
 
-"info.author.cta" = "You don't need to inherit anyone's dream.\nYour own dream, you make it yourself.";
+"info.author.cta" = "If you're tired of the \"change the world with an app\" narrative,\nstop, and reimagine with me.";
 
 "info.connect" = "Connect";
 "info.media.title" = "AI Writing Code: College Student's 'Anxiety Popper' App Downloads Surpass ChatGPT, AI Tools Spark Renaissance?";
@@ -48,4 +48,13 @@
 
 // Letter to Audience
 "info.letter.title" = "A Letter to the Audience | Social Battery";
+// Support
+"support.title" = "Buy me a coffee";
+"support.subtitle" = "Support more indie creations";
+
+// Concept
+"concept.title" = "Concept";
+"concept.subtitle" = "When dreams become memes on the internet";
+"concept.header" = "Concept:\nWhen dreams become memes on the internet";
+
 "info.letter.content" = "You see a battery.\nIt sits quietly on your screen, no function, no explanation.\nIt says nothing,\nBut it wants us to stop and see one thing clearly:\n\nThe era has already turned the page.\n\nOur generation still lives in the afterglow of the previous generation's dreams.\nSomeone told us building an app could change the world;\nSomeone told us entrepreneurship was the path to freedom;\nSomeone told us if we just keep building, we'll be seen.\n\nWe believed.\nBut got nothing.\n\nBecause the world has changed.\nAI generates your code, design, copy,\nAn app is born faster than it can be used or remembered.\nBuilding apps is no longer a dream,\nIt's become another meme,\nA symbol that can be copied and forgotten.\n\nSocial Battery is a metaphor for this truth.\nIt has no function, tries to change nothing.\nIt only amplifies a symbol,\nTo show you how our generation is trapped in the previous generation's illusions.\n\nWe invite you to stop,\nTo gaze at this battery,\nTo gaze at the truth we're living through:\nThe dreams left behind won't bring us the future.\n\nIf the era has turned the page,\nWe must learn to dream for ourselves.\nNo longer relying on the previous generation's paths,\nNo longer chasing illusions designed by others,\nBut using our own way,\nTo build our own imagination.\n\nYou don't need to inherit anyone's dream.\nYour own dream, you make it yourself.\n\nIf you've read this far,\nWe hope you'll join us,\nTo stop,\nAnd begin reimagining.";
