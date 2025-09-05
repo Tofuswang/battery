@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  battery
+  
+  English
+*/
+
+CFBundleDisplayName = "Social Battery";
