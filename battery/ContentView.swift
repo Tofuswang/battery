@@ -167,9 +167,9 @@ struct ContentView: View {
     
     var sliderAccentColor: Color {
         switch batteryPercentage {
-        case 0...20:
+        case 0..<21:
             return Color(red: 1.0, green: 0.3, blue: 0.3)
-        case 21...50:
+        case 21..<50:
             return Color(red: 1.0, green: 0.7, blue: 0.2)
         default:
             return Color(red: 0.3, green: 0.9, blue: 0.3)
@@ -183,15 +183,15 @@ struct ContentView: View {
     
     var currentEmoji: String {
         switch batteryPercentage {
-        case 0...16:
+        case 0..<17:
             return "😵"  // 完全沒電
-        case 17...33:
+        case 17..<34:
             return "😫"  // 很累
-        case 34...50:
+        case 34..<51:
             return "😕"  // 有點累
-        case 51...67:
+        case 51..<68:
             return "😐"  // 普通
-        case 68...84:
+        case 68..<85:
             return "🙂"  // 還不錯
         default:
             return "😄"  // 滿電

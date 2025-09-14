@@ -6,9 +6,9 @@ struct BatteryView: View {
     private var batteryColor: LinearGradient {
         let colors: [Color]
         switch percentage {
-        case 0...20:
+        case 0..<21:
             colors = [Color(red: 1.0, green: 0.3, blue: 0.3), Color(red: 0.9, green: 0.1, blue: 0.1)]
-        case 21...50:
+        case 21..<50:
             colors = [Color(red: 1.0, green: 0.8, blue: 0.2), Color(red: 1.0, green: 0.6, blue: 0.0)]
         default:
             colors = [Color(red: 0.4, green: 0.9, blue: 0.4), Color(red: 0.2, green: 0.7, blue: 0.2)]
